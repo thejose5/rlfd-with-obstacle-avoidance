@@ -1,8 +1,8 @@
 # Robot Learning from Human Demonstrations with Unexpected Obstacles During Task Reproduction. 
 
 ## Motivation
-Standard motion primitive frameworks assume that the environment in which a robot is trained will be identical to the environment in which it is used.
-This assumption doesn’t hold true in most real-world situations
+* Standard motion primitive frameworks assume that the environment in which a robot is trained will be identical to the environment in which it is used.
+* This assumption doesn’t hold true in most real-world situations
 
 ## Goal
 To develop a system that learns to perform tasks through demonstration and autonomously avoid obstacles during task reproduction
